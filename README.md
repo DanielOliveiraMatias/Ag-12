@@ -45,6 +45,13 @@ Navegue até o diretório do projeto:
 cd agenda12
 ```
 
+# ATENÇÃO!
+
+Para que o site funcione corretamente, é necessário instalar as dependências do projeto. Para isso, execute o seguinte comando:
+
+```bash
+npm install
+
 Abra o arquivo `index.html` em um navegador para visualizar a aplicação.
 
 **CASO O SITE NÃO FUNCIONE CORRETAMENTE, VEJA O SITE NO PRÓPRIO GITHUB QUE FOI HOSPEDADO O SITE.**
