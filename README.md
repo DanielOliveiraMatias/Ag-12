@@ -51,6 +51,7 @@ Para que o site funcione corretamente, é necessário instalar as dependências 
 
 ```bash
 npm install
+```
 
 Abra o arquivo `index.html` em um navegador para visualizar a aplicação.
 
